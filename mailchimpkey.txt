@@ -1,0 +1,10 @@
+MAILCHIMP
+
+// API Key
+// 96cbc1816223a9b0bc540ca3583a266c-us 9
+
+// list-id
+// 40ba0e30f8
+
+
+url = "https://us9.api.mailchimp.com/3.0/lists/40ba0e30f8"
