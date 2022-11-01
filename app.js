@@ -34,7 +34,7 @@ app.post("/",function(req,res){
 
     const options = {
         method:"POST",
-        auth: "lazim::96cbc1816223a9b0bc540ca3583a266c-us9"
+        auth: "lazim:96cbc1816223a9b0bc540ca3583a266c-us9"
     }
 
 
